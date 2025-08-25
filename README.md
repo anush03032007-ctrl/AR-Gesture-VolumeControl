@@ -5,6 +5,7 @@ Built using Python, OpenCV, and Google’s MediaPipe, the system tracks the thum
 
 The project demonstrates how Augmented Reality + Hand Tracking can be combined for intuitive Human-Computer Interaction (HCI). It’s lightweight, runs fully on-device (no cloud processing), and shows how vision + simple math can unlock powerful AR experiences.
 #######################################################################################################################################################################
+
 🔹 **Features**
 
 👋 Real-time hand tracking with MediaPipe (21 landmark detection).
@@ -17,6 +18,7 @@ The project demonstrates how Augmented Reality + Hand Tracking can be combined f
 
 🔐 Privacy-first: all processing happens locally, no data is sent online.
 #######################################################################################################################################################################
+
 🛠 **Tech Stack**
 
  1) Python 3.10+
